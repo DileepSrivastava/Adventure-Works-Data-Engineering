@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+ProductCategoryKey,CategoryName
+1,Bikes
+2,Components
+3,Clothing
+4,Accessories
+=======
+ProductCategoryKey,CategoryName
+1,Bikes
+2,Components
+3,Clothing
+4,Accessories
+>>>>>>> d047c9fdf87f525201e4847ccffe87fe707c88f1
