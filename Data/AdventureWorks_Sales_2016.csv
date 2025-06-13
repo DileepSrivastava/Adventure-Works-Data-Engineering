@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 OrderDate,StockDate,OrderNumber,ProductKey,CustomerKey,TerritoryKey,OrderLineItem,OrderQuantity
 1/1/2016,10/17/2002,SO48797,385,14335,1,1,1
 1/1/2016,9/30/2002,SO48802,383,24923,9,1,1
@@ -47872,4 +47871,4 @@ OrderDate,StockDate,OrderNumber,ProductKey,CustomerKey,TerritoryKey,OrderLineIte
 12/31/2016,11/4/2003,SO61147,528,12146,4,1,2
 12/31/2016,11/9/2003,SO61147,215,12146,4,3,1
 12/31/2016,11/16/2003,SO61147,537,12146,4,2,1
->>>>>>> d047c9fdf87f525201e4847ccffe87fe707c88f1
+
